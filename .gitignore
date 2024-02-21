@@ -1,0 +1,10 @@
+data
+front
+art-class.ipynb
+conv-vgg16.ipynb
+modelW1.h5
+requirements.txt
+W1.ipynb
+W2.ipynb
+.ipynb_checkpoints/
+__pycache__/
